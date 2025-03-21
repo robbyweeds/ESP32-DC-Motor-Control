@@ -1,4 +1,8 @@
 # ESP32-DC-Motor-Control
+
+![ESP32_1_DC_Motor_bb-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/e82df286-0653-4e4c-b215-53777400aa1c)
+
+
 /*********
   Rui Santos & Sara Santos - Random Nerd Tutorials
   Complete instructions at https://RandomNerdTutorials.com/esp32-web-server-dc-motor-arduino/
