@@ -1,6 +1,5 @@
 # ESP32-DC-Motor-Control
-
-![ESP32_1_DC_Motor_bb-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/e82df286-0653-4e4c-b215-53777400aa1c)
+The following schematic diagram shows how to connect a DC motor to the ESP32 using a L298N motor driver.
 
 
 /*********
@@ -9,6 +8,11 @@
   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files.
   The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 *********/
+
+![ESP32_1_DC_Motor_bb-ezgif com-webp-to-jpg-converter](https://github.com/user-attachments/assets/e82df286-0653-4e4c-b215-53777400aa1c)
+
+
+
 
 #include <Arduino.h>
 #include <WiFi.h>
